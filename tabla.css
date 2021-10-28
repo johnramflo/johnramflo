@@ -1,0 +1,26 @@
+/*
+	Color fondo: #632432;
+	Color header: 246355;#068cc9
+	Color borde: 0F362D;
+	Color iluminado: 369681;
+*/
+
+thead{
+	background-color: #0378ad;
+	
+	color: black;
+}
+
+tr{
+    color:black;
+}
+
+tr:nth-child(even){
+	background-color: #009bdd;
+        
+}
+
+tr:hover td{
+	background-color: #f2a705;
+	color: black;
+}
